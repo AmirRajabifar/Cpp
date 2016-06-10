@@ -1,3 +1,9 @@
+/*
+	== 	equality test
+	!= 	not equals
+	< 	less than
+	>	greater than
+*/
 #include <iostream>
 
 using namespace std;
