@@ -1,1 +1,6 @@
-defualt: User_Input
+VPATH = Sources
+
+all: main
+
+clean:
+	-rm main
