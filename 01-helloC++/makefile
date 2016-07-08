@@ -1,1 +1,3 @@
-default: helloWorld
+VPATH = Sources
+
+all: main
