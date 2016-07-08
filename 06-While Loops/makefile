@@ -1,1 +1,6 @@
-defualt: While
+VPATH = Sources
+
+all: main
+
+clean:
+	-rm main
