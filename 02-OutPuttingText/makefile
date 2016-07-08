@@ -1,1 +1,3 @@
-defualt: OutPuttingText
+VPATH = Sources
+
+all: main
