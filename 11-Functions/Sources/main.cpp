@@ -9,5 +9,6 @@ int main(int argc, char const *argv[])
 	display();
 	dis( 10, 25);
 	
+	cout << multi(23, 5) << endl;
 	return 0;
 }
