@@ -4,5 +4,7 @@
 
 void display();
 
+void dis(int, int);
+
 #endif
 
