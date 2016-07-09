@@ -19,3 +19,10 @@ int multi(int a, int b)
 {
 	return a * b;
 }
+
+void default_func(int x, int y, int z)
+{
+	cout << "x is " << x << endl;
+	cout << "y is " << y << endl;
+	cout << "z is " << z << endl;
+}
